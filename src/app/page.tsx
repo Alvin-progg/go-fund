@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Nav } from "./components/Nav";
+import { Nav } from "../components/Nav";
 
 export default function Home() {
   return (
@@ -18,7 +18,7 @@ export default function Home() {
               </h2>
             </div>
             <div>
-              <Link href="/" className="text-2xl px-4 py-3 rounded-2xl bg-primary-800 hover:bg-primary-400 duration-300 hover:text-bg" >Start Tracking</Link>
+              <Link href="/register" className="text-2xl px-4 py-3 rounded-2xl bg-primary-800 hover:bg-primary-400 duration-300 hover:text-bg" >Start Tracking</Link>
             </div>
           </div>
         </section>
