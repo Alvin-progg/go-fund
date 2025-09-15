@@ -8,7 +8,7 @@ export default function Home() {
         <Nav />
       </header>
       <main>
-        <section className="h-screen w-full  ">
+        <section className=" w-full  ">
           <div className=" mx-50 py-30 my-20 flex flex-col gap-10 w-[800px] ">
             <div className="">
               <h1 className="text-5xl text-primary-300">Take Control of Your Expenses</h1>

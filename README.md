@@ -1,3 +1,6 @@
+# Project might discontinue
+
+
 # GoFunds  
 
 GoFunds is a simple **expense tracking web app** built with **Next.js** and **TypeScript**.  
